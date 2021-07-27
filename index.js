@@ -4,14 +4,6 @@ lorem
 addEventListenera
 addEventListenerada
 d
-a
-d
-sa
-d
-a
-
-
-
 
 
 
